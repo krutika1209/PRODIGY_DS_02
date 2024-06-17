@@ -1,10 +1,10 @@
-#Titanic Dataset Analysis
+# Titanic Dataset Analysis EDA
 
-#Description
+# Description
 
 This dataset contains information about the passengers aboard the Titanic, including demographic details, ticket information, and whether they survived the tragic sinking. The dataset can be used to analyze survival rates based on various factors such as age, gender, class, and more.
 
-#Dataset
+# Dataset
 The dataset includes the following columns:
 
 PassengerId: Unique ID for each passenger
@@ -31,7 +31,7 @@ Cabin: Cabin number
 
 Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
-#Installation
+# Installation
 To use this dataset, you'll need to have Python installed on your system along with the following libraries:
 
 pandas
